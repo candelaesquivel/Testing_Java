@@ -3,6 +3,8 @@
 ## -IntelliJ IDEA with Java
 ## -libraries: JUnit and Mockito.
 
+# Objectives to achieve
+
 
 ## -Master the different types of tests
 ## -Apply the Test-Driven Development technique
